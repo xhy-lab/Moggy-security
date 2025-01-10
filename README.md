@@ -1,6 +1,5 @@
 <h3 style="text-align:center">Moggy 安全</h3> 
-<p>作者：一条闲不住的咸鱼</p>
-<a href="https://space.bilibili.com/1265667148">bilibili作者首页</a>
+<a href="https://space.bilibili.com/1265667148">作者：一条闲不住的咸鱼</a>
 <p>用Python做一个简易版杀毒软件，拥有查杀和主动防御的功能</p>
 <p>运行前提：</p>
 <ul>
